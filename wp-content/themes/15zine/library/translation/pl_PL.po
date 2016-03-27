@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 15Zine 1.0\n"
+"POT-Creation-Date: 2015-03-25 11:59-0000\n"
+"PO-Revision-Date: 2015-06-04 00:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: Cubell Themes\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;gettext;gettext_noop;_n:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../library/admin\n"
+"X-Poedit-SearchPathExcluded-1: ../option-tree\n"
+"X-Poedit-SearchPathExcluded-2: ../plugins/login-with-ajax\n"
+
+#: ../404.php:10
+msgid "Page not found... Oops!"
+msgstr "Damn… strona nie została znaleziona! "
+
+#: ../404.php:11
+msgid "Page not found. Please try using the search box below."
+msgstr "Strona nie została znaleziona. Spóbuj poszukać raz jeszcze"
+
+#: ../bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: ../bbpress/form-search.php:16 ../searchform.php:3
+msgid "Search.."
+msgstr "Szukaj"
+
+#: ../comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ten post jest chroniony hasłem. Wprowadź hasło by zobaczyć komentarze."
+
+#: ../comments.php:27
+msgid "No Responses"
+msgstr "Bez odpowiedzi"
+
+#: ../comments.php:27
+msgid "One Response"
+msgstr "Jedna odpowiedź"
+
+#: ../comments.php:27
+msgid "% Response"
+msgid_plural "% Responses"
+msgstr[0] "% odpowiedź"
+msgstr[1] "%odpowiedzi"
+
+#: ../comments.php:53
+msgid "Leave a Reply"
+msgstr "Napisz odpowiedź"
+
+#: ../comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Napisz odpowiedź dla %s"
+
+#: ../comments.php:55
+msgid "Cancel Reply"
+msgstr "Skasuj odpowiedź"
+
+#: ../comments.php:56
+msgid "Post Comment"
+msgstr "Zostaw komentarz"
+
+#: ../comments.php:58
+msgid "Your email address will not be published."
+msgstr "Twój adres e-mail nie zostanie opublikowany."
+
+#: ../comments.php:59
+msgid "Comment"
+msgstr "Komentuj"
+
+#: ../comments.php:65
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "<a href=\"%s\">Zaloguj się</a> by móc skomentować."
+
+#: ../comments.php:71
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Zalogowany jako <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+"of this account\">Chcesz się wylogować?</a>"
+
+#: ../comments.php:81
+msgid "Name"
+msgstr "Nazwa"
+
+#: ../comments.php:87 ../library/core.php:3834 ../library/core.php:3888
+msgid "Email"
+msgstr "E-mail"
+
+#: ../comments.php:94 ../library/core.php:3835 ../library/core.php:3889
+msgid "Website"
+msgstr "Strona"
+
+#: ../functions.php:288
+msgid ""
+"15Zine requires Cubell Themes Functionality 4.0, please delete your existing "
+"installation of Cubell Themes Functionality plugin and install the latest "
+"version in Appearance -> Install Plugins."
+msgstr ""
+
+#: ../library/core.php:127
+msgid "Log in / Join"
+msgstr "Zaloguj się / Dołącz"
+
+#: ../library/core.php:133
+msgid "Search"
+msgstr "Szukaj"
+
+#: ../library/core.php:366
+msgid "Trending"
+msgstr "Popularne"
+
+#: ../library/core.php:373
+msgid "Now"
+msgstr ""
+
+#: ../library/core.php:373
+msgid "Week"
+msgstr "Tydzień"
+
+#: ../library/core.php:373
+msgid "Month"
+msgstr "Miesiąc"
+
+#: ../library/core.php:451 ../library/core.php:516
+msgid "Not enough data yet, please check again later."
+msgstr "Nie ma jeszcze danych, zobacz później."
+
+#: ../library/core.php:456 ../library/core.php:522
+msgid ""
+"You need to install Jetpack plugin and enable the \"Stats\" module to be "
+"able to use this."
+msgstr ""
+"Musisz zainstalować wtyczkę Jetpack i uruchomić ją by móc korzystać z modułu "
+"„Statystyk” "
+
+#: ../library/core.php:550
+#, php-format
+msgid "Found %d result for:"
+msgid_plural "Found %d results for:"
+msgstr[0] "Znaleziono %d rezultat dla:"
+msgstr[1] "Znaleziono %d rezultatów dla:"
+
+#: ../library/core.php:573
+msgid "See all results"
+msgstr "Zobacz wszystko"
+
+#: ../library/core.php:576
+msgid "No results found for:"
+msgstr "Nic nie znaleziono dla:"
+
+#: ../library/core.php:1250 ../library/core.php:1402 ../library/core.php:2323
+#: ../library/core.php:2327 ../library/core.php:2328 ../library/core.php:2394
+#: ../library/core.php:2398 ../library/core.php:2400 ../library/core.php:2406
+#: ../library/core.php:2412 ../library/core.php:2418
+#, php-format
+msgid "View all posts in %s"
+msgstr "Zobacz wszystkie posty z %s"
+
+#: ../library/core.php:1410
+msgid "0 Comments"
+msgstr "0 komentarzy"
+
+#: ../library/core.php:1516
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../library/core.php:1520
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../library/core.php:1565
+msgid "Edit Menu Item"
+msgstr "Edytuj element menu"
+
+#: ../library/core.php:1574
+msgid "URL"
+msgstr "URL"
+
+#: ../library/core.php:1581
+msgid "Navigation Label"
+msgstr ""
+
+#: ../library/core.php:1587
+msgid "Title Attribute"
+msgstr ""
+
+#: ../library/core.php:1594
+msgid "Open link in a new window/tab"
+msgstr "Otwórz link w nowym oknie/zakładce"
+
+#: ../library/core.php:1599
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../library/core.php:1605
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../library/core.php:1621
+msgid "Description"
+msgstr "Opis"
+
+#: ../library/core.php:1623
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it. "
+msgstr "Opis pojawi się w menu, jeśli dana skórka będzie to wspierała."
+
+#: ../library/core.php:1629
+msgid "Move"
+msgstr "Przesuń"
+
+#: ../library/core.php:1630
+msgid "Up one"
+msgstr "Jedno w górę"
+
+#: ../library/core.php:1631
+msgid "Down one"
+msgstr "Jedno w dół"
+
+#: ../library/core.php:1634
+msgid "To the top"
+msgstr "Do góry"
+
+#: ../library/core.php:1641
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../library/core.php:1654
+msgid "Remove"
+msgstr "Usuń"
+
+#: ../library/core.php:1655
+msgid "Cancel"
+msgstr "Zrezygnuj"
+
+#: ../library/core.php:1842
+msgid "See all"
+msgstr "Zobacz wszystko"
+
+#: ../library/core.php:2131
+msgid "Read more"
+msgstr "Przeczytaj więcej"
+
+#: ../library/core.php:2147
+msgid "No more articles"
+msgstr "In ma więcej wpisów"
+
+#: ../library/core.php:2148
+msgid "Load More"
+msgstr "Zobacz więcej"
+
+#: ../library/core.php:2314
+msgid "Home"
+msgstr "Strona główna"
+
+#: ../library/core.php:2346 ../library/core.php:2348
+msgid "Groups"
+msgstr "Grupy"
+
+#: ../library/core.php:2364 ../library/core.php:2368
+msgid "Members"
+msgstr "Członkowie"
+
+#: ../library/core.php:2376
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: ../library/core.php:2381
+msgid "Register"
+msgstr "Zarejestruj się"
+
+#: ../library/core.php:2505
+msgid "Share On"
+msgstr "Udostępnij"
+
+#: ../library/core.php:2575
+msgid "Next Article"
+msgstr "Następny wpis"
+
+#: ../library/core.php:2580
+msgid "No Newer Articles"
+msgstr "Nie ma nowszych wpisów"
+
+#: ../library/core.php:2590
+msgid "Previous Article"
+msgstr "Poprzedni wpis"
+
+#: ../library/core.php:2595
+msgid "No Older Articles"
+msgstr "Nie ma starszych wpisów"
+
+#: ../library/core.php:2664
+msgid "Related Posts"
+msgstr "Powiązane posty"
+
+#: ../library/core.php:2716
+msgid "(Edit)"
+msgstr "(Edytuj)"
+
+#: ../library/core.php:2719
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na moderację."
+
+#: ../library/core.php:3635
+msgid "Overall Score"
+msgstr "Wynik ogólny"
+
+#: ../library/core.php:3723 ../library/core.php:3733
+msgid "You have already rated"
+msgstr "Już oceniłeś"
+
+#: ../library/core.php:3727 ../library/core.php:4552
+msgid "Vote"
+msgstr "Głosuj"
+
+#: ../library/core.php:3729 ../library/core.php:4554
+msgid "Votes"
+msgstr "Głosów"
+
+#: ../library/core.php:3732
+msgid "Leave rating"
+msgstr "Zostaw ocenę"
+
+#: ../library/core.php:3734
+msgid "Reader Rating"
+msgstr "Ocena czytelników"
+
+#: ../library/widgets/cb-google-follow-widget.php:87
+#: ../library/widgets/cb-recent-posts-slider-widget.php:121
+#: ../library/widgets/cb-recent-posts-widget.php:116
+#: ../library/widgets/cb-reviews-widget.php:182
+#: ../library/widgets/cb-single-image-widget.php:82
+#: ../library/widgets/cb-widget-social-media.php:98
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: ../library/widgets/cb-popular-posts-widget.php:116
+msgid "Comments"
+msgstr "Komentarzy"
+
+#: ../library/widgets/cb-popular-posts-widget.php:145
+msgid "Views"
+msgstr "Odsłony"
+
+#: ../library/widgets/cb-recent-posts-slider-widget.php:124
+#: ../library/widgets/cb-recent-posts-widget.php:119
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+#: ../library/widgets/cb-reviews-widget.php:197
+msgid "Number of reviews to show:"
+msgstr "Liczba recenzji do pokazania:"
+
+#: ../page.php:60
+msgid "Tags:"
+msgstr "Tagi:"
+
+#: ../search.php:10
+msgid "Search Results for"
+msgstr "Wynki wyszukiwania dla"
+
+#: ../search.php:27
+msgid "Sorry, nothing found."
+msgstr "Przykro nam, niczego nie odnaleziono."
+
+#: ../search.php:28
+msgid "Please try searching again, but with different keywords."
+msgstr "Spróbuj poszukać jeszcze raz, ale z innym słowem"
